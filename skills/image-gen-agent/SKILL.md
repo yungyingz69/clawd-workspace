@@ -116,6 +116,14 @@ spawn image-gen: สร้าง prompt 5 sets theme Japanese Garden
 4. User copy prompt → ChatGPT gen รูป
 5. Download → Upload Etsy
 
+## ⚠️ Browser Automation Rules (สำคัญ!)
+
+เมื่อ gen รูปผ่าน ChatGPT browser:
+- **ใช้ conversation เดียว** ตลอด - ไม่สร้าง chat ใหม่ทุกรูป
+- ถ้าต้อง spawn หลาย sub-agent → ให้กลับไป conversation เดิม (ดูจาก URL หรือ history)
+- หลีกเลี่ยงการไป /images หน้าใหม่ทุกครั้ง → ใช้ conversation ที่มีอยู่แล้ว
+- **เหตุผล:** ไม่ให้ ChatGPT รกไปด้วย conversations เยอะๆ
+
 ---
 
 *Reference: memory/etsy-shops.md, Google Drive/Etsy/SHOPS.md*
