@@ -1,0 +1,104 @@
+{
+  "sets": [
+    {
+      "set_id": 1,
+      "theme": "Geometric Chevron",
+      "style": "Angular/Zigzag",
+      "prompts": [
+        "Minimalist chevron pattern in rainbow gradient colors, V-shaped zigzag lines pointing upward, soft pastel tones transitioning from pink to blue to green, clean geometric design, nursery wall art style, white background, high resolution digital illustration",
+        "Bold chevron stripes in vibrant rainbow spectrum, thick zigzag bands from warm red orange yellow to cool green blue purple, modern geometric pattern, playful kids room decor, crisp edges, flat design aesthetic",
+        "Delicate watercolor chevron pattern, soft rainbow hues bleeding into each other, artistic V-shaped waves, gentle pastel gradient, boho nursery style, textured paper background, hand-painted feel"
+      ]
+    },
+    {
+      "set_id": 2,
+      "theme": "Sunburst Rays",
+      "style": "Radial/Organic",
+      "prompts": [
+        "Rainbow sunburst radiating from center, colorful rays spreading outward like sunshine, warm to cool gradient from golden yellow center to purple edges, retro 70s inspired, nursery wall art, cheerful and bright",
+        "Soft pastel sunburst pattern, gentle rays in muted rainbow colors emanating from a white center, dreamy boho aesthetic, minimalist sun design, calming nursery decor, Scandinavian style",
+        "Playful sun with rainbow colored beams, whimsical children illustration style, thick bold rays in primary and secondary colors, happy sunshine face optional, joyful kids room art, cartoon aesthetic"
+      ]
+    },
+    {
+      "set_id": 3,
+      "theme": "Vertical Stripes",
+      "style": "Linear/Pattern",
+      "prompts": [
+        "Clean vertical stripes in rainbow gradient, evenly spaced bars transitioning smoothly from red to violet, modern minimalist design, crisp edges, Scandinavian nursery aesthetic, simple and elegant wall art",
+        "Watercolor vertical stripes in soft rainbow hues, hand-painted look with subtle texture, irregular edges giving organic feel, pastel color palette, artistic nursery decor, gentle and soothing",
+        "Thick bold vertical rainbow stripes, vibrant primary colors red orange yellow green blue purple, playful retro style, even spacing, cheerful kids room decor, pop art influence"
+      ]
+    },
+    {
+      "set_id": 4,
+      "theme": "Heart Shape",
+      "style": "Symbolic/Love",
+      "prompts": [
+        "Rainbow gradient heart shape, smooth color transition from warm pink red at top to cool blue purple at bottom, single centered heart, minimalist design, love themed nursery art, clean white background",
+        "Concentric hearts in rainbow colors, nested heart shapes from small inner to large outer, each layer a different color of the spectrum, geometric love symbol, modern kids room decor",
+        "Watercolor rainbow heart with soft edges, dreamy pastel hues blending together, artistic splashes and texture, romantic boho style, gentle nursery wall art, hand-painted aesthetic"
+      ]
+    },
+    {
+      "set_id": 5,
+      "theme": "Hexagon Grid",
+      "style": "Geometric/Pattern",
+      "prompts": [
+        "Honeycomb hexagon pattern in rainbow gradient, tessellated hexagons transitioning colors across the grid, modern geometric design, clean lines, contemporary nursery art, cool to warm color flow",
+        "Scattered hexagons in various rainbow colors, floating geometric shapes on white background, playful arrangement, different sizes, modern kids room decor, abstract minimalist style",
+        "Watercolor hexagon grid with soft rainbow hues, artistic honeycomb pattern, colors bleeding slightly between cells, organic geometric fusion, boho nursery aesthetic, textured feel"
+      ]
+    },
+    {
+      "set_id": 6,
+      "theme": "Abstract Brushstrokes",
+      "style": "Artistic/Expressive",
+      "prompts": [
+        "Bold rainbow brushstrokes on white canvas, expressive paint strokes in vibrant spectrum colors, abstract expressionist style, dynamic movement, artistic nursery decor, contemporary wall art",
+        "Soft pastel brushstrokes in rainbow palette, gentle sweeping marks, watercolor texture, dreamy abstract art, calming color transitions, modern boho nursery style, artistic and serene",
+        "Playful paint daubs in rainbow colors, thick impasto style brushwork, cheerful and energetic, primary colors prominent, kids room abstract art, joyful artistic expression"
+      ]
+    },
+    {
+      "set_id": 7,
+      "theme": "Polka Dots",
+      "style": "Pattern/Playful",
+      "prompts": [
+        "Rainbow polka dots scattered on white background, various sized circles in spectrum colors, playful confetti-like arrangement, cheerful nursery pattern, modern kids room decor, clean and fun",
+        "Gradient polka dots transitioning from pink to purple across the canvas, evenly spaced circles, each row a different rainbow hue, organized pattern, Scandinavian minimalist style",
+        "Watercolor rainbow dots with soft edges, hand-painted circles in pastel spectrum, irregular sizes and spacing, artistic organic feel, boho nursery aesthetic, gentle and dreamy"
+      ]
+    },
+    {
+      "set_id": 8,
+      "theme": "Mountain Silhouette",
+      "style": "Nature/Landscape",
+      "prompts": [
+        "Black mountain silhouette with rainbow gradient sky behind, layered mountain ranges, colorful sunset or sunrise palette transitioning warm to cool, minimalist landscape, nursery adventure theme",
+        "Simple geometric mountains with rainbow bands in sky, triangular peak shapes in gray or navy, horizontal color stripes above, modern Scandinavian style, clean landscape art for kids room",
+        "Watercolor mountains with rainbow sky wash, soft blended colors flowing above mountain outline, dreamy landscape scene, pastel hues, boho nursery decor, peaceful nature art"
+      ]
+    },
+    {
+      "set_id": 9,
+      "theme": "Star Burst",
+      "style": "Symbolic/Celestial",
+      "prompts": [
+        "Rainbow gradient star shape, five or six pointed star with smooth color transitions, centered single star design, minimalist celestial art, modern nursery decor, clean white background",
+        "Multiple stars in rainbow colors scattered across canvas, various sizes, twinkling star field effect, each star a different spectrum color, magical kids room decor, dreamy night sky theme",
+        "Geometric star pattern with rainbow facets, crystal-like star with prismatic colors, light refracting effect, modern abstract design, contemporary nursery art, sparkling aesthetic"
+      ]
+    },
+    {
+      "set_id": 10,
+      "theme": "Diagonal Lines",
+      "style": "Geometric/Dynamic",
+      "prompts": [
+        "Diagonal rainbow stripes at 45 degree angle, clean parallel lines in gradient spectrum, dynamic movement feel, modern geometric design, contemporary nursery art, bold and stylish",
+        "Soft watercolor diagonal bands in rainbow hues, gentle slanting stripes with blended edges, pastel color palette, artistic abstract design, boho nursery aesthetic, flowing and calm",
+        "Bold diagonal color blocks in vibrant rainbow, thick angled stripes creating dynamic composition, retro 80s inspired, energetic kids room decor, graphic design style, high contrast"
+      ]
+    }
+  ]
+}

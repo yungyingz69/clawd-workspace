@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "version": "1.0.1",
+      "installedAt": 1769403009822
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1769403023164
+    },
+    "prompt-engineering-expert": {
+      "version": "1.0.0",
+      "installedAt": 1769403033923
+    },
+    "vap-media": {
+      "version": "1.0.1",
+      "installedAt": 1769404455847
+    },
+    "research": {
+      "version": "1.0.1",
+      "installedAt": 1769404462618
+    },
+    "krea-api": {
+      "version": "0.1.3",
+      "installedAt": 1769404500143
+    },
+    "youtube-summarizer": {
+      "version": "1.0.0",
+      "installedAt": 1769404615358
+    },
+    "solana-skills": {
+      "version": "0.1.1",
+      "installedAt": 1769404615947
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1769404622250
+    },
+    "n8n": {
+      "version": "1.0.2",
+      "installedAt": 1769404634567
+    },
+    "better-notion": {
+      "version": "1.1.0",
+      "installedAt": 1769418931189
+    }
+  }
+}
