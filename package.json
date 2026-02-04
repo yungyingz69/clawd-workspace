@@ -1,0 +1,13 @@
+{
+  "name": "clawd-workspace",
+  "version": "1.0.0",
+  "scripts": {
+    "finance:add": "node skills/finance-helper/add-transaction.js",
+    "finance:list": "node skills/finance-helper/list-transactions.js",
+    "finance:delete": "node skills/finance-helper/delete-transaction.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.93.2",
+    "dotenv": "^17.2.3"
+  }
+}

@@ -11,8 +11,9 @@ If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out w
 Before doing anything else:
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+3. Read `WORKSPACE.md` — workspace structure and active projects
+4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
 
@@ -174,6 +175,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - Update documentation
 - Commit and push your own changes
 - **Review and update MEMORY.md** (see below)
+- **Update WORKSPACE.md when adding new skills or projects**
 
 ### 🔄 Memory Maintenance (During Heartbeats)
 Periodically (every few days), use a heartbeat to:
