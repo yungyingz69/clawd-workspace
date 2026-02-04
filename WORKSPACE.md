@@ -1,6 +1,6 @@
 # Clawd Workspace - Structure & Index
 
-**Last Updated**: 2026-02-02
+**Last Updated**: 2026-02-04
 **Workspace**: `/Users/Yingz/clawd`
 **Owner**: พี่ยิ้ง (Yingz)
 **AI Assistant**: น้องซาโตชิ (Satoshi) 🤖
@@ -144,6 +144,39 @@
 
 ---
 
+### 🔥 NEW: Dashboard UI/UX Master ✅
+**Location**: `~/clawd/skills/dashboard-ui-ux-master/`
+
+**Purpose**: Complete UX/UI guidelines สำหรับสร้าง Dashboard ที่สวย ใช้งานง่าย และ modern
+
+**Content** (20 หมวดหมู่):
+1. Core Principles (Mobile-first, Accessibility)
+2. Layout Patterns (Bento Grid, Responsive)
+3. Color System (Dark mode, Platform colors)
+4. Typography (Font stack, Type scale)
+5. Spacing System (4px base unit)
+6. Components (Cards, Buttons, Inputs, Tables)
+7. Animations (Framer Motion, Timing)
+8. Data Visualization (Charts best practices)
+9. Mobile Design (Touch targets, Gestures)
+10. Loading & Error States
+11. Form Design
+12. Icons & Navigation
+13. Testing & QA
+14. Performance
+15. Quick Start Template
+
+**Tech Stack**:
+- Next.js + Tailwind CSS
+- shadcn/ui components
+- Framer Motion (animations)
+- Recharts (data viz)
+- Lucide React (icons)
+
+**Status**: ✅ READY TO USE (2026-02-04)
+
+---
+
 ### 2️⃣ Finance Helper ✅
 **Location**: `~/clawd/skills/finance-helper/`
 
@@ -182,6 +215,41 @@ npm run finance:add "ซื้้อคอมพิวเตอร์ 15000 บ�
 **App**: `~/Documents/Claude Code/Productive/lifeflow-nuxt/`
 
 **Status**: ✅ FULLY OPERATIONAL (2026-01-30)
+
+---
+
+### 🔥 NEW: Viral Video Manager (FastClip Clone) 🎬
+**Location**: `~/Documents/Claude Code/Viral Video/viral-video-manager/`
+
+**Purpose**: Video content management platform (FastClip.io clone) สำหรับ creators
+
+**Features**:
+- ✅ Video generation (KIE.AI Sora-2)
+- ✅ Multi-platform posting (YouTube, Facebook, Instagram)
+- ✅ Auto-scheduling with cron jobs
+- ✅ Analytics dashboard (3 phases complete)
+- ✅ Content management (day scripts, clips)
+- ✅ Watermarking (Publitio)
+
+**Tech Stack**:
+- Next.js 15 + TypeScript
+- Tailwind CSS + shadcn/ui
+- Supabase (database + auth)
+- KIE.AI (video generation)
+- YouTube/Facebook/Instagram APIs
+
+**Live URL**: https://viral-video-manager-geotbuq7g-yungyingzs-projects.vercel.app
+
+**Analytics Page**: `/analytics` (Phase 1-3 complete)
+- Overview cards (5 metrics)
+- Growth charts
+- Top videos table
+- Audience demographics
+- Best time heatmap
+- Platform comparison
+- Export functionality
+
+**Status**: ✅ PHASE 1-3 COMPLETE (2026-02-04)
 
 ---
 
